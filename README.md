@@ -16,7 +16,7 @@
         <ul>
           <li>IVANNA MUMBI GITHINJI</li>
           <li>190804</li>
-          <li>ivanna.githinji@gmail.com</li>
+          <li>ivanna.githinji@strathmore.edu</li>
         </ul>
       </td>
     </tr>
