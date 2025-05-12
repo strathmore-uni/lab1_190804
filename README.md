@@ -14,9 +14,9 @@
     <tr>
       <td>
         <ul>
-          <li>YOUR_PREFERRED NAME(How should i call you)</li>
-          <li>YOUR_STRATHMORE_Admission_number</li>
-          <li>YOUR_STRATHMORE_EMAIL</li>
+          <li>IVANNA MUMBI GITHINJI</li>
+          <li>190804</li>
+          <li>ivanna.githinji@gmail.com</li>
         </ul>
       </td>
     </tr>
